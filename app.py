@@ -677,4 +677,3 @@ with tabs[6]:
 
 st.markdown("---")
 st.caption("Educational multi-asset hedge fund simulator (Spot + CFD) with asymmetric financing, full history log and automatic margin-call protection. Not financial advice.")
-```
